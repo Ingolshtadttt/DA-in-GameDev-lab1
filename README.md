@@ -38,8 +38,13 @@
 Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
 ## Задание 1
-![image](https://user-images.githubusercontent.com/114305035/192109975-d9e6b223-2d89-4fec-9b9c-12845c2430f3.png)
-![image](https://user-images.githubusercontent.com/114305035/192110674-c5497f51-69d7-49c9-918e-1707ecd49221.png)
+![Снимок экрана (204)](https://user-images.githubusercontent.com/114305035/194763498-5731c4e9-135a-4c2a-9f40-54c8c4684896.png)
+![Снимок экрана (205)](https://user-images.githubusercontent.com/114305035/194763507-d00f588d-d9e6-4d12-917e-cf87c5964a64.png)
+![Снимок экрана (206)](https://user-images.githubusercontent.com/114305035/194763514-dd23b111-7976-42e7-8072-2a4573f45151.png)
+![Снимок экрана (207)](https://user-images.githubusercontent.com/114305035/194763526-439c9cad-575d-47a4-98ba-245bf8f8b9d0.png)
+![Снимок экрана (208)](https://user-images.githubusercontent.com/114305035/194763539-44cdacf2-54fb-4033-a251-2afc97815081.png)
+
+
 
 
 ## Задание 2
