@@ -38,11 +38,23 @@
 Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
 ## Задание 1
-![Снимок экрана (204)](https://user-images.githubusercontent.com/114305035/194763498-5731c4e9-135a-4c2a-9f40-54c8c4684896.png)
-![Снимок экрана (205)](https://user-images.githubusercontent.com/114305035/194763507-d00f588d-d9e6-4d12-917e-cf87c5964a64.png)
-![Снимок экрана (206)](https://user-images.githubusercontent.com/114305035/194763514-dd23b111-7976-42e7-8072-2a4573f45151.png)
-![Снимок экрана (207)](https://user-images.githubusercontent.com/114305035/194763526-439c9cad-575d-47a4-98ba-245bf8f8b9d0.png)
-![Снимок экрана (208)](https://user-images.githubusercontent.com/114305035/194763539-44cdacf2-54fb-4033-a251-2afc97815081.png)
+Реализовал перцептрон, который умеет производить следующие вычисления:
+
+1.OR(Научился за 3 попытки)
+![Снимок экрана (245)](https://user-images.githubusercontent.com/114305035/204011571-b6c5951b-9aff-4847-8f0c-a3014d5d8a0f.png)
+
+2.AND(Научился за 6 попыток)
+![Снимок экрана (246)](https://user-images.githubusercontent.com/114305035/204011722-91c456a0-7d5c-4a96-a8d0-14d722f837c5.png)
+
+3.NAND(Научился за 7 попыток)
+![Снимок экрана (248)](https://user-images.githubusercontent.com/114305035/204011854-2222ba7b-bc67-4192-bcad-5be9fa6c091d.png)
+
+4.XOR(Не смог научиться за 1000+ попыток)
+![Снимок экрана (247)](https://user-images.githubusercontent.com/114305035/204011895-fe87d0de-c7fc-4559-a53b-139ca92f7868.png)
+
+
+
+
 
 
 
