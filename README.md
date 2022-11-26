@@ -61,7 +61,7 @@
 ![Снимок экрана (267)](https://user-images.githubusercontent.com/114305035/204093356-4403e31b-d7be-4ccb-a0d8-ceef09e41d49.png)
 
 7.После завершения обучения проверил работу модели.
-![Снимок экрана (261)](https://user-images.githubusercontent.com/114305035/204093036-80a8e287-5e7b-4039-b26d-557ec783ccac.png)
+![Снимок экрана (270)](https://user-images.githubusercontent.com/114305035/204093823-f8fbfa33-cc7d-436e-9a6f-78a78c6305b9.png)
 
 
 
