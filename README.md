@@ -40,7 +40,7 @@
 ## Задание 1
 
 
-1.Открыл проект Unity, добавив обьект GoldMine и создал 32 ассета.
+1.Открыл проект Unity, добавив обьект GoldMine и создал 32 рефаба.
 ![Снимок экрана (276)](https://user-images.githubusercontent.com/114305035/204103067-4879ba29-ba3d-481b-adf9-fe10b6693b69.png)
 
 2.Поместил файл Economic.yaml в папку с проектом Unity.
